@@ -76,4 +76,4 @@ Sou formado em **Análise e Desenvolvimento de Sistemas** e atualmente estou cur
 
 ---
 
-> "Qualidade não é encontrar erros, é evitar que eles aconteçam." 🧠
+> "Qualidade não é encontrar erros, é evitar que eles aconteçam."
