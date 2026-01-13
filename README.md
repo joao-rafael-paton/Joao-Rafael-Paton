@@ -35,14 +35,6 @@ Tenho base em programação, o que me ajuda a entender melhor o fluxo da aplica�
 
 ---
 
-## 📊 GitHub Stats
-
-![João's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO\&show_icons=true\&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO\&layout=compact\&theme=dark)
-
----
-
 ## 🚀 Em constante aprendizado
 
 * Automação de Testes
