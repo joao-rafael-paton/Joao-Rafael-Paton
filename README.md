@@ -14,21 +14,6 @@ Sou formado em **Análise e Desenvolvimento de Sistemas** e atualmente estou cur
             src="https://img.shields.io/badge/QA-Quality%20Assurance-2ea44f?style=for-the-badge&logo=checkmarx&logoColor=white"
         />
     </a>
-    <a href="https://github.com/SEUUSUARIO?tab=repositories&sort=stargazers">
-        <img
-            alt="Total de estrelas"
-            title="Total de estrelas GitHub"
-            src="https://custom-icon-badges.demolab.com/github/stars/SEUUSUARIO?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/SEUUSUARIO?tab=followers">
-        <img
-            alt="Seguidores"
-            title="Me siga no GitHub"
-            src="https://custom-icon-badges.demolab.com/github/followers/SEUUSUARIO?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
 
 ---
 
