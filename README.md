@@ -52,13 +52,6 @@ Sou formado em **Análise e Desenvolvimento de Sistemas** e atualmente estou cur
 
 ---
 
-</p>
-
-<br/>
-<br/>
-
----
-
 ### 🤖 Automação de Testes
 
 * Automação de **APIs REST**
