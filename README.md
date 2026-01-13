@@ -72,8 +72,7 @@ Sou formado em **Análise e Desenvolvimento de Sistemas** e atualmente estou cur
 
 ### 📫 Contato
 
-* 💼 LinkedIn: *adicione aqui*
-* 📧 Email: *adicione aqui*
+* 📧 Email: joaorafaelpaton@gmail.com
 
 ---
 
